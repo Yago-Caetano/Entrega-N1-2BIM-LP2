@@ -31,10 +31,35 @@ Diagrama UML
 Código:
 [Veja aqui o repositório](https://github.com/Yago-Caetano/Pattern_Observer_Warehouse)
  
-## Projeto 2: Inserir projeto
+## Projeto 2: [Design Pattern Structural] - Simulador de Som de Passaros
+
+#### Sobre o design Pattern utilizado
+
+Nome: 
+```
+    Adapter
+```
 
 
+Tipo:
 
+``` 
+    Estrutural
+```
+
+Objetivo:
+
+```
+O Adapter é um padrão de projeto estrutural que permite objetos com interfaces 
+incompatíveis colaborarem entre si.
+```
+
+Diagrama UML
+![Diagrama UML]
+
+
+Código:
+[Veja aqui o repositório](https://github.com/RogerKenichi/AtividadePadraoAdapter)
 
  ## 💻 Desenvolvedores
 
