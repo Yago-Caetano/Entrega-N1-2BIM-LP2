@@ -54,10 +54,9 @@ O Adapter é um padrão de projeto estrutural que permite objetos com interfaces
 incompatíveis colaborarem entre si.
 ```
 
-Diagrama UML
-![Diagrama UML]
 
-![Diagrama UML](./Classe UML.png)
+
+![Diagrama UML](./Classe_UML.png)
 
 
 
